@@ -23,7 +23,3 @@ curl -X POST http://localhost:5000/dimmer/set_level -d 'node_id=4' -d 'value=50'
 
 ### enable the commands that will be automatically execute
 curl -X POST http://localhost:8083/command -d 'command_1=1' -d 'command_2=1' -d 'command_3=1' -d 'command_4=1' 
-
-## Comparaison
-
-Communication entre device et iotCore, iothub, etc...
