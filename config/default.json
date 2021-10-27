@@ -1,0 +1,13 @@
+{
+	"server": {
+		"port": 8083,
+		"port_beacon_REST": 8082,
+		"address_zwave" : "localhost",
+		"port_zwave" : 5000,
+		"PATH_knx": "../KNX/knx_client_script.py",
+		"iot_sensor_key" : "HostName=remyVuagniauxIot.azure-devices.net;DeviceId=iot_labo_sensor;SharedAccessKey=qu8NFWaHZFnBmd0kc/IPEO88rCP+VC7UCpFQDHZEIhY=",
+		"iot_beacon_key" : "HostName=remyVuagniauxIot.azure-devices.net;DeviceId=iot_labo_1_device;SharedAccessKey=j08401vDJCBoSnGRfev4lQ/LFkOQtMZH9cDOZH5kvj4=",
+		"iot_blind_key": "HostName=remyVuagniauxIot.azure-devices.net;DeviceId=iot_labo_blind;SharedAccessKey=EHGegFm6Ci1DyjqqQFPOmu07aH+fqOsyV9QUuuiSp1U=",
+		"iot_radiator_key": "HostName=remyVuagniauxIot.azure-devices.net;DeviceId=iot_labo_radiator;SharedAccessKey=SSoB/Fa0KqczjePLlqA9wa8oYM0ZdGnorUU0UCKDVvI="
+	}
+}

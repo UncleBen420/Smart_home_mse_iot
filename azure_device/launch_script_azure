@@ -1,0 +1,5 @@
+#!/bin/bash
+node azure_beacon.js &
+node azure_knx_blind.js &
+node azure_knx_radiator.js &
+node azure_sensor.js &

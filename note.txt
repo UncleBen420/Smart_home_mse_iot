@@ -1,0 +1,5 @@
+docker run -d  --name mongo-iot  -p 27017:27017 mongo
+mongosh --port 27017 -u myUserAdmin -p 'abc123' --authenticationDatabase 'admin'
+docker container exec -it iot-mongo /bin/bash
+
+COMMunication entre device et iotCore, iothub, etc...

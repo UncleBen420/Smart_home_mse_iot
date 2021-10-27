@@ -1,0 +1,16 @@
+{
+  "name": "smart-building",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_js_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.17.8",
+    "azure-iot-device-mqtt": "^1.15.8",
+    "express": "^4.17.1"
+  }
+}

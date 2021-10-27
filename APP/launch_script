@@ -1,0 +1,6 @@
+#!/bin/bash
+../KNX/actuasim/actuasim.py &
+#choose the one for the right cloud plateform
+../azure_device/launch_script_azure &
+
+node ./node_js_server.js &

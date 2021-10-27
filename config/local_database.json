@@ -1,0 +1,1 @@
+{"rooms":[{"id":"32753","name":"salon","blinds":["1","2"],"radiators":["1","2"],"dimmer_num":"6","is_occupied":0,"temperature":30,"luminance":60,"humidity":50},{"id":"57473","name":"cuisine","blinds":["10","11"],"radiators":["10","11"],"dimmer_num":"6","is_occupied":1,"temperature":30,"luminance":40,"humidity":50}],"commands":["0","0","0","0"]}
